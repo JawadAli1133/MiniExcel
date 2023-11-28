@@ -1,0 +1,1 @@
+This is c++ code for my mini excel project. The funtions which it perform is similar to original excel and are given in menu
